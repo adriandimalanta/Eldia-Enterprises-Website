@@ -19,7 +19,7 @@ export default function Contact() {
           Let's build together
         </h2>
         <p className="font-body font-300 text-mist text-base leading-relaxed mb-12">
-          Are you interested in partnering, investing, or learning more about our platforms? We'd love to hear from you.
+          If you are interested in partnering, investing, or learning more about our platforms, we'd love to hear from you.
         </p>
 
         {status === 'sent' ? (
