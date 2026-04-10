@@ -22,7 +22,7 @@ export default function Hero() {
         </h1>
 
         <p className="animate-fade-up delay-200 font-body font-300 text-mist text-lg md:text-xl max-w-2xl mx-auto mb-10 leading-relaxed">
-          Eldia Enterprises creates next-generation digital tools and platforms that solve real-world problems
+          Eldia Enterprises creates next-generation digital technology and platforms that solve real-world problems
         </p>
 
         <div className="animate-fade-up delay-300 flex items-center justify-center">

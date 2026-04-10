@@ -2,8 +2,8 @@ export default function Vision() {
   const pillars = [
     {
       number: '01',
-      title: 'Intelligence First',
-      body: 'Every platform we build is designed with AI at its core — not as a feature, but as the foundation of everything we ship.',
+      title: 'Created for the People',
+      body: 'Every one of our intelligent systems is created to power and improve the lives of people.',
     },
     {
       number: '02',
