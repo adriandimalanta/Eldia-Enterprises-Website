@@ -16,9 +16,9 @@ export default function Hero() {
       <div className="relative z-10 text-center max-w-5xl mx-auto">
         <h1 className="animate-fade-up font-display font-800 text-white leading-[0.95] tracking-tight mb-6"
           style={{ fontSize: 'clamp(3rem, 8vw, 7rem)' }}>
-          Building the<br />
-          <span className="text-ember-400 ember-text-glow">Future</span><br />
-          of Intelligent Systems for the Real World
+          Powering<br />
+          <span className="text-ember-400 ember-text-glow">People</span><br />
+          with the Future of Intelligent Systems
         </h1>
 
         <p className="animate-fade-up delay-200 font-body font-300 text-mist text-lg md:text-xl max-w-2xl mx-auto mb-10 leading-relaxed">
