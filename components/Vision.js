@@ -3,17 +3,17 @@ export default function Vision() {
     {
       number: '01',
       title: 'Created for the People',
-      body: 'Every one of our intelligent systems is created to power and improve the lives of people.',
+      body: 'Our intelligent systems are created to power and improve the lives of people.',
     },
     {
       number: '02',
-      title: 'Category Defining',
-      body: "We don't enter markets to compete. We enter to set the standard. Each subsidiary is engineered to be the best in its space.",
+      title: 'Institutional Quality',
+      body: "Our technology delivers performance to the people at an institutional standard.",
     },
     {
       number: '03',
-      title: 'Long-Term Thinking',
-      body: 'Great technology takes time. We build for decades, not quarters — prioritizing depth, reliability, and real user value.',
+      title: 'Enhancement of the People',
+      body: 'Our technology is created to enhance the people, not replace them.',
     },
   ]
 
@@ -27,11 +27,11 @@ export default function Vision() {
         <div className="max-w-3xl mb-20">
           <p className="text-ember-400 text-xs font-display font-600 tracking-widest uppercase mb-3">VISION</p>
           <h2 className="font-display font-800 text-white text-4xl md:text-5xl leading-tight mb-6">
-            Not just products.<br />
-            <span className="text-ember-400">A new standard.</span>
+            For the People.<br />
+            <span className="text-ember-400">Not just for institutions.</span>
           </h2>
           <p className="font-body font-300 text-mist text-base md:text-lg leading-relaxed">
-            Eldia Enterprises is built on a simple belief: technology should be remarkable. We create platforms that don't just solve problems — they change how people think about what's possible.
+            Eldia Enterprises is built on a simple belief: the technology we create adds value and solves real problems that improve the lives of people.
           </p>
         </div>
 
@@ -56,7 +56,7 @@ export default function Vision() {
             }}
           />
           <p className="relative font-display font-700 text-white text-xl md:text-3xl leading-tight max-w-3xl mx-auto">
-            "Building the next generation of intelligent digital platforms — one breakthrough at a time."
+            "Building the next generation of intelligent systems — to help people break through their limitations one innovation at a time."
           </p>
           <p className="relative mt-4 font-body text-ember-400/70 text-sm">— Eldia Enterprises</p>
         </div>
