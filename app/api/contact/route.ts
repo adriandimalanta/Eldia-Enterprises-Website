@@ -7,7 +7,7 @@ export async function POST(req: Request) {
     const { name, email, subject, message } = await req.json()
 
     await resend.emails.send({
-      from: 'Eldia Enterprises <onboarding@resend.dev>',
+      from: 'Eldia Enterprises <contact@eldiaenterprises.com>',
       to: 'eldiaenterprises@gmail.com',
       subject: subject || `New message from ${name}`,
       replyTo: email,
